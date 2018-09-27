@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - Half Slider (https://startbootstrap.com/template-overviews/half-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-half-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* Much font, such gradient */
+ .py-5 {
+  background:
+    -webkit-linear-gradient(275deg, hsla(96.27, 5.75%, 20.49%, 1) 0%, hsla(96.27, 5.75%, 20.49%, 0) 65%),
+    -webkit-linear-gradient(315deg, hsla(348.18, 25.17%, 4.43%, 1) 0%, hsla(348.18, 25.17%, 4.43%, 0) 70%),
+    -webkit-linear-gradient(65deg, hsla(9.16, 27.29%, 4.35%, 1) 10%, hsla(9.16, 27.29%, 4.35%, 0) 80%),
+    -webkit-linear-gradient(135deg, hsla(72.35, 11.18%, 91.71%, 1) 15%, hsla(72.35, 11.18%, 91.71%, 0) 80%);
+  background:
+    linear-gradient(175deg, hsla(96.27, 5.75%, 20.49%, 1) 0%, hsla(96.27, 5.75%, 20.49%, 0) 65%),
+    linear-gradient(135deg, hsla(348.18, 25.17%, 4.43%, 1) 0%, hsla(348.18, 25.17%, 4.43%, 0) 70%),
+    linear-gradient(25deg, hsla(9.16, 27.29%, 4.35%, 1) 10%, hsla(9.16, 27.29%, 4.35%, 0) 80%),
+    linear-gradient(315deg, hsla(72.35, 11.18%, 91.71%, 1) 15%, hsla(72.35, 11.18%, 91.71%, 0) 80%);
+   font-family: 'Julius Sans One', sans-serif;
+   color: white;
+}

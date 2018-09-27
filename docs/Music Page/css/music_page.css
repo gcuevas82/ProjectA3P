@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+/* Much font, such gradient */
+
+body {
+  padding-top: 54px;
+font-family: 'Fira Mono', monospace;
+background:
+    linear-gradient(135deg, hsla(53.21, 31.69%, 79.77%, 1) 0%, hsla(53.21, 31.69%, 79.77%, 0) 70%),
+    linear-gradient(25deg, hsla(69.98, 32.96%, 92.63%, 1) 10%, hsla(69.98, 32.96%, 92.63%, 0) 80%),
+    linear-gradient(315deg, hsla(103.56, 3.65%, 71.43%, 1) 15%, hsla(103.56, 3.65%, 71.43%, 0) 80%),
+    linear-gradient(245deg, hsla(60, 47.41%, 87.53%, 1) 100%, hsla(60, 47.41%, 87.53%, 0) 70%);
+  }
+
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
